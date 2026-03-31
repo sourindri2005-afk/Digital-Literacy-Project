@@ -8,8 +8,8 @@ This repository serves as a comprehensive portfolio of my digital skills, rangin
 ## 📂 Repository Structure
 
 ### [task-1-introduction/
-* [cite_start]**infographic.pdf**: A visual guide created in Canva defining Digital Literacy.
-* [cite_start]**Focus**: Understanding the ability to find, evaluate, and communicate information through digital platforms.
+* **infographic.pdf**: A visual guide created in Canva defining Digital Literacy.
+* **Focus**: Understanding the ability to find, evaluate, and communicate information through digital platforms.
 
 ### [task-2-digital-presence/]
 * **Focus**: Establishing a professional "Digital Storefront" across GitHub, LinkedIn, and Kaggle.
@@ -18,6 +18,7 @@ This repository serves as a comprehensive portfolio of my digital skills, rangin
 ### [task-3-platforms/]
 * **coding_challenge.png**: Successful Python challenge completion on HackerRank.
 * **google_form_view.png** & **google_sheets_view.png**: A functional Digital Literacy Quiz and its linked response tracker.
+*  https://docs.google.com/forms/d/e/1FAIpQLScs9M7DPMCigtaUoNpicEbcIiV82f-r80FGHBg0JEeytLKr5A/viewform?usp=header
 
 ### [task-4-email-etiquette/]
 * **email_drafts.pdf**: Professional correspondence for internship inquiries and assignment extensions.
@@ -25,24 +26,24 @@ This repository serves as a comprehensive portfolio of my digital skills, rangin
 
 ### [task-5-cybercrime/]
 * **casestudy.md**: A deep dive into real-world UPI/QR Code fraud.
-* [cite_start]**prevention-checklist.md**: Actionable tips for staying safe online, including 2FA and secure payment habits.
+* **prevention-checklist.md**: Actionable tips for staying safe online, including 2FA and secure payment habits.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-* [cite_start]**Design**: Canva 
-* [cite_start]**Version Control**: Git & GitHub 
-* [cite_start]**Professional Networking**: LinkedIn 
+* **Design**: Canva 
+* **Version Control**: Git & GitHub 
+* **Professional Networking**: LinkedIn 
 * **Technical Practice**: HackerRank & Kaggle
-* [cite_start]**Productivity**: Google Workspace (Docs, Forms, Sheets) 
+* **Productivity**: Google Workspace (Docs, Forms, Sheets) 
 
 ---
 
 ## 🔐 Safe Internet Practices
 As a Digital Ambassador, I advocate for:
-* [cite_start]**Authentication**: Using strong, unique passwords and enabling 2FA.
-* [cite_start]**Awareness**: Staying skeptical of phishing links and urgent requests.
-* [cite_start]**Privacy**: Regularly auditing social media settings to avoid oversharing.
+* **Authentication**: Using strong, unique passwords and enabling 2FA.
+* **Awareness**: Staying skeptical of phishing links and urgent requests.
+* **Privacy**: Regularly auditing social media settings to avoid oversharing.
 
 ---
 
